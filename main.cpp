@@ -16,8 +16,8 @@
 using namespace std;
 
 int main() {
-//    bububu();
-    read_odd();
+    bububu();
+//    read_odd();
 //    count_indices();
 //    decrement();
 
